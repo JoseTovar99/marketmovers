@@ -144,7 +144,7 @@ html {
   margin-top: 6.25rem;
 }
 .section-title {
-	font-size: 1.375rem;
+	font-size: 1.675rem;
 	font-weight: bold;
 	color: #444444;
   margin-bottom: 2rem;
@@ -165,7 +165,7 @@ html {
 	line-height: 1.4;
 	text-align: left;
   opacity: 100%;
-  background-color: rgb(5, 51, 51);
+  background-color: rgb(5, 27, 29);
 
 }
 .steps .col-md-4 {
@@ -306,7 +306,7 @@ hr {
 	font-size: 14px;
 	font-weight: 300;
 	line-height: 1.86;
-	color: #1ba2b4;
+	color: #1d7d8a;
   text-decoration: none;
 }
 
