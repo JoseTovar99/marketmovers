@@ -146,7 +146,7 @@ html {
 .section-title {
 	font-size: 1.675rem;
 	font-weight: bold;
-	color: #444444;
+	color: #353535;
   margin-bottom: 2rem;
 }
 
@@ -162,9 +162,9 @@ html {
   font-family: Roboto;
 	font-size: 15px;
 	font-weight: 300;
-	line-height: 1.4;
+	line-height: 1.5;
 	text-align: left;
-  opacity: 100%;
+  opacity: 110%;
   background-color: rgb(5, 27, 29);
 
 }
